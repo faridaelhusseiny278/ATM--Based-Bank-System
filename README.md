@@ -15,12 +15,14 @@ variations of directed and constraint random testing, self-checking TB using ref
 code coverage, and create coverage reports for statement, branch, and FSM coverage
 # credits 
 developed by:
-**Design Team**: **designed system architecture, implemented high-level modeling, created a reference model, and wrote the Verilog code**
+**Design Team**: **designed system architecture, implemented high-level modeling, 
+created a reference model, and wrote the Verilog code**
 -Farida Elhusseiny
 -Sarah Mazhar
 -Ahmed Ibrahim
 **Verification Team**:**created a testbench that covers test stimulus using 
-variations of directed and constraint random testing, self-checking TB using reference models, defined design properties or assertions using PSL, enabled 
+variations of directed and constraint random testing, self-checking TB using reference models, 
+defined design properties or assertions using PSL, enabled 
 code coverage, and created coverage reports for statement, branch, and FSM coverage**
 -Hassan ElTobgy
 -Mazen Mohamed
